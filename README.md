@@ -78,7 +78,10 @@ Tic-Tac-Toa-React/
 
 ### Gameplay UI
 
-![Tic Tac Toe Screenshot](https://via.placeholder.com/800x400.png?text=Add+a+screenshot+here)
+![Screenshot (11)](https://github.com/user-attachments/assets/794f288d-1b7c-445c-8174-1717220faef3)
+![Screenshot (12)](https://github.com/user-attachments/assets/d04cda78-6f35-4b06-8a34-8d3c5f1ada95)
+![Screenshot (13)](https://github.com/user-attachments/assets/a82fac34-8355-4c4d-8a9b-4662c06e6bda)
+![Screenshot (14)](https://github.com/user-attachments/assets/efc9a104-82bb-4500-9183-98829a33dc19)
 
 
 
